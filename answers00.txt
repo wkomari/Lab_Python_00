@@ -1,0 +1,23 @@
+ANSWERS
+
+QUESTION 1 = 11/2 IS 5
+
+             11.0/2 = 5.5 
+
+
+QUESTION 2 = 7625597484987L
+
+
+QUESTION 3 = 334206837441656786944L 
+
+
+QUESTION 4 = print
+“The average time per meter is “, 45.0/7900
+0.00569620253164557
+
+
+QUESTION 5 =  
+a = 4.7*0.621371
+b = 9.4*0.621371
+print a-b = 2.9204437
+
